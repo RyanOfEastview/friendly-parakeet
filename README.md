@@ -9,3 +9,5 @@ The user will be asked to choose between 8-128 characters, if they want to inclu
 Once the criteria are selected, the users password will display in the window.
 
 Repository link: https://github.com/RyanOfEastview/friendly-parakeet
+
+Link to deployed application: https://ryanofeastview.github.io/friendly-parakeet/
